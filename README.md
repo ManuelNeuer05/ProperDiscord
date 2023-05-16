@@ -11,7 +11,7 @@
 [Credits](https://github.com/ManuelNeuer05/ProperDiscord/blob/main/README.md#credits)<br/>
   
 <a href="https://github.com/ManuelNeuer05/ProperDiscord/releases/download/Latest/ProperDiscord-setup.rar">
-  <img src="https://i.postimg.cc/1zvYJWRr/properdc.png"/>
+  <img src="https://i.postimg.cc/XqGhZwbc/downld.png"/>
 </a>
   
 ## Features of ProperDiscord
